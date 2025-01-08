@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DU_Java_LabManual_Excercises.iml" filepath="$PROJECT_DIR$/DU_Java_LabManual_Excercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_01/Lab_01.iml" filepath="$PROJECT_DIR$/Lab_01/Lab_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_02/Lab_02.iml" filepath="$PROJECT_DIR$/Lab_02/Lab_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_03/Lab_03.iml" filepath="$PROJECT_DIR$/Lab_03/Lab_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_01/program_01/program_01.iml" filepath="$PROJECT_DIR$/Lab_01/program_01/program_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_01/program_02/program_02.iml" filepath="$PROJECT_DIR$/Lab_01/program_02/program_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_01/program_03/program_03.iml" filepath="$PROJECT_DIR$/Lab_01/program_03/program_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_01/program_04/program_04.iml" filepath="$PROJECT_DIR$/Lab_01/program_04/program_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_02/program_2_01/program_2_01.iml" filepath="$PROJECT_DIR$/Lab_02/program_2_01/program_2_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_02/program_2_02/program_2_02.iml" filepath="$PROJECT_DIR$/Lab_02/program_2_02/program_2_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_02/program_2_03/program_2_03.iml" filepath="$PROJECT_DIR$/Lab_02/program_2_03/program_2_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_02/program_2_04/program_2_04.iml" filepath="$PROJECT_DIR$/Lab_02/program_2_04/program_2_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_02/program_2_05/program_2_05.iml" filepath="$PROJECT_DIR$/Lab_02/program_2_05/program_2_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_03/program_3_01/program_3_01.iml" filepath="$PROJECT_DIR$/Lab_03/program_3_01/program_3_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_03/program_3_02/program_3_02.iml" filepath="$PROJECT_DIR$/Lab_03/program_3_02/program_3_02.iml" />
+    </modules>
+  </component>
+</project>
