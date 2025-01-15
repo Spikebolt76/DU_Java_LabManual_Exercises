@@ -10,19 +10,23 @@ import java.util.Scanner;
 
 public class Grade_obtained
 {
-    public static final int TOTAL_MARKS = 500;
     public static void main(String[] args)
     {
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter marks of all 5 subjects : ");
-        int sub1 = input.nextInt();
-        int sub2 = input.nextInt();
-        int sub3 = input.nextInt();
-        int sub4 = input.nextInt();
-        int sub5 = input.nextInt();
 
-        int obtainedMarks = sub1 + sub2 + sub3 + sub4 + sub5;
-        double percentage = (double) obtainedMarks / TOTAL_MARKS * 100.0;
+        System.out.println("Enter number of subjects : ");
+        int subjects = input.nextInt();
+        System.out.println("Enter maximum marks per test : ");
+        int totalMarks = input.nextInt() * subjects;
+
+        int obtainedMarks = 0;
+        for (int i = 1; i <= subjects; i++)
+        {
+            System.out.println("Enter marks of subject" + i + " : ");
+            obtainedMarks += input.nextInt();
+        }
+
+        double percentage = (double) obtainedMarks / totalMarks * 100.0;
 
         if (percentage >= 60)
         {
