@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lab_02/Lab_02.iml" filepath="$PROJECT_DIR$/Lab_02/Lab_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_03/Lab_03.iml" filepath="$PROJECT_DIR$/Lab_03/Lab_03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_04/Lab_04.iml" filepath="$PROJECT_DIR$/Lab_04/Lab_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_05/Lab_05.iml" filepath="$PROJECT_DIR$/Lab_05/Lab_05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_01/program_01/program_01.iml" filepath="$PROJECT_DIR$/Lab_01/program_01/program_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_01/program_02/program_02.iml" filepath="$PROJECT_DIR$/Lab_01/program_02/program_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_01/program_03/program_03.iml" filepath="$PROJECT_DIR$/Lab_01/program_03/program_03.iml" />
@@ -24,6 +25,8 @@
       <module fileurl="file://$PROJECT_DIR$/Lab_03/program_3_06/program_3_06.iml" filepath="$PROJECT_DIR$/Lab_03/program_3_06/program_3_06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_03/program_3_07/program_3_07.iml" filepath="$PROJECT_DIR$/Lab_03/program_3_07/program_3_07.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_04/program_4_01/program_4_01.iml" filepath="$PROJECT_DIR$/Lab_04/program_4_01/program_4_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_05/program_5_01/program_5_01.iml" filepath="$PROJECT_DIR$/Lab_05/program_5_01/program_5_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_05/program_5_02/program_5_02.iml" filepath="$PROJECT_DIR$/Lab_05/program_5_02/program_5_02.iml" />
     </modules>
   </component>
 </project>
