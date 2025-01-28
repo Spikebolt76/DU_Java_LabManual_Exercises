@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// fix / optimization : https://chatgpt.com/share/6798e443-7c78-8001-88e1-39b9c4ed8b78
 /*
 There is an integer array num sorted in ascending order (with distinct values). Prior to being passed to your function,
 num is possibly rotated at an unknown pivot index k (1 <= k < num.length) such that the resulting array is
@@ -22,10 +23,9 @@ public class PrintNumFromRotatedArray
 {
     static void RotateArray(int[] arr, int n, int pivot)
     {
-        int rotation = n - pivot;
         int first;
 
-        for (int i = 0; i <= rotation; i ++)
+        for (int i = 0; i < pivot; i ++)   // Here Number of ROTATIONS needed to rotate the array == pivot index - 1
         {
             first = arr[0];
 
@@ -39,19 +39,14 @@ public class PrintNumFromRotatedArray
 
     static int isAvailable(int[] arr, int n, int target)
     {
-        int result = 0; 
         for (int i = 0; i < n; i ++)
         {
             if (arr[i] == target)
             {
-                result = i;
-                break;
-            }
-            else{
-                result = -1;
+                return i;
             }
         }
-        return result;
+        return -1;
     }
 
 
@@ -97,25 +92,20 @@ public class PrintNumFromRotatedArray
         System.out.println("Original (*sorted) array : ");
         printArray(arr);
 
-        System.out.println("Enter the pivot element to rotate the array : ");
+        System.out.println("Enter the pivot index to rotate the array : ");
         int pivot = sc.nextInt();
 
         RotateArray(arr, size, pivot);
         printArray(arr);
-
 
         System.out.println("Enter the target element to search : ");
         int target = sc.nextInt();
 
         int result = isAvailable(arr, size, target);
 
-        if (result == -1)
-        {
-            System.out.println("code = -1, The target is NOT available in the rotated array !");
-        }
-        else{
-            System.out.println("The target is found at index = " + result);
-        }
+        System.out.println((result == -1)
+                ? "code = -1, The target is NOT available in the rotated array !"
+                : "The target is found at index = " + result);
 
         sc.close();
     }
