@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DU_Java_LabManual_Excercises.iml" filepath="$PROJECT_DIR$/DU_Java_LabManual_Excercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra_Programs/Extra_Programs.iml" filepath="$PROJECT_DIR$/Extra_Programs/Extra_Programs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_01/Lab_01.iml" filepath="$PROJECT_DIR$/Lab_01/Lab_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_02/Lab_02.iml" filepath="$PROJECT_DIR$/Lab_02/Lab_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_03/Lab_03.iml" filepath="$PROJECT_DIR$/Lab_03/Lab_03.iml" />

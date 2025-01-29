@@ -13,6 +13,7 @@ public class CircleClass_getArea
 
         Circle(double newRadius)
         {
+            //parameterized constructor
             System.out.println("Parameterized Constructor called...");
             radius = newRadius;
         }
