@@ -49,9 +49,25 @@ public class PrintNumFromRotatedArray
         return -1;
     }
 
+    static boolean isSorted (int[] arr)
+    {
+        for (int i = 0; i < arr.length - 1; i++)
+        {
+            if (arr[i] > arr[i + 1])
+            {
+                return false;
+            }
+        }
+        return true;
+    }
 
     static void SortArray(int[] arr)
     {
+        if(isSorted(arr))
+        {
+            return;
+        }
+
         for (int i = 1; i < arr.length; i++) {
             int temp = arr[i];
             int j = i - 1;
