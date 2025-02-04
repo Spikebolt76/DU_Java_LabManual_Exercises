@@ -36,5 +36,7 @@ public class TimeClass_AddTwoObjects
         Time time3 = new Time(time1.hour + time2.hour, time1.minute + time2.minute);
 
         time3.displayTime();
+
+        sc.close();
     }
 }
