@@ -1,22 +1,20 @@
 import java.util.Scanner;
 
-public class CircleClass_getArea
+class Circle
 {
-    static class Circle
+    double radius = 1.0;
+
+    Circle(){
+        // default constructor, does not return anything, not even void
+        System.out.println("Default Constructor called...\n");
+    }
+
+    Circle(double newRadius)
     {
-        double radius = 1.0;
-
-        Circle(){
-            // default constructor, does not return anything, not even void
-            System.out.println("Default Constructor called...\n");
-        }
-
-        Circle(double newRadius)
-        {
-            //parameterized constructor
-            System.out.println("Parameterized Constructor called...");
-            radius = newRadius;
-        }
+        //parameterized constructor
+        System.out.println("Parameterized Constructor called...");
+        radius = newRadius;
+    }
 
 //        Circle(double radius)           //with "this" keyword
 //        {
@@ -24,12 +22,14 @@ public class CircleClass_getArea
 //            this.radius = radius;
 //        }
 
-        double getArea()
-        {
-            return radius * radius * Math.PI;
-        }
+    double getArea()
+    {
+        return radius * radius * Math.PI;
     }
+}
 
+public class CircleClass_getArea
+{
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
