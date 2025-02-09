@@ -2,7 +2,6 @@ import java.util.*;
 
 class TextString2
 {
-    String str;
     int[] vowelCount = new int[5];
 
     public void countVowels(String input)

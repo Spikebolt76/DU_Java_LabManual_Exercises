@@ -2,7 +2,6 @@ import java.util.*;
 
 class TextString1
 {
-    String str;
     Map<Character, Integer> vowelCount = new HashMap<>();
 
     public TextString1() {

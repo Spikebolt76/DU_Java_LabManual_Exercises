@@ -6,7 +6,7 @@ class Time_
     int minute;
 
 
-    public Time(int hour, int minute)
+    public Time_(int hour, int minute)
     {
         this.hour = hour + hour / 60;
         this.minute = minute % 60;
