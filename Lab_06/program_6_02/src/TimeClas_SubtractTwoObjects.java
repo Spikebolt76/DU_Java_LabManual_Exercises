@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Time_
 {
     int hour;

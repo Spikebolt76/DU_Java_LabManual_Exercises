@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/Lab_05/Lab_05.iml" filepath="$PROJECT_DIR$/Lab_05/Lab_05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_06/Lab_06.iml" filepath="$PROJECT_DIR$/Lab_06/Lab_06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_07/Lab_07.iml" filepath="$PROJECT_DIR$/Lab_07/Lab_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_08/Lab_08.iml" filepath="$PROJECT_DIR$/Lab_08/Lab_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_09/Lab_09.iml" filepath="$PROJECT_DIR$/Lab_09/Lab_09.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_01/program_01/program_01.iml" filepath="$PROJECT_DIR$/Lab_01/program_01/program_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_01/program_02/program_02.iml" filepath="$PROJECT_DIR$/Lab_01/program_02/program_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_01/program_03/program_03.iml" filepath="$PROJECT_DIR$/Lab_01/program_03/program_03.iml" />
@@ -34,6 +36,20 @@
       <module fileurl="file://$PROJECT_DIR$/Lab_05/program_5_01/program_5_01.iml" filepath="$PROJECT_DIR$/Lab_05/program_5_01/program_5_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_05/program_5_02/program_5_02.iml" filepath="$PROJECT_DIR$/Lab_05/program_5_02/program_5_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_05/program_5_03/program_5_03.iml" filepath="$PROJECT_DIR$/Lab_05/program_5_03/program_5_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_06/program_6_01/program_6_01.iml" filepath="$PROJECT_DIR$/Lab_06/program_6_01/program_6_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_06/program_6_02/program_6_02.iml" filepath="$PROJECT_DIR$/Lab_06/program_6_02/program_6_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_06/program_6_03/program_6_03.iml" filepath="$PROJECT_DIR$/Lab_06/program_6_03/program_6_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_06/program_6_04/program_6_04.iml" filepath="$PROJECT_DIR$/Lab_06/program_6_04/program_6_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_06/program_6_05/program_6_05.iml" filepath="$PROJECT_DIR$/Lab_06/program_6_05/program_6_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_06/program_6_06/program_6_06.iml" filepath="$PROJECT_DIR$/Lab_06/program_6_06/program_6_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_06/program_6_07/program_6_07.iml" filepath="$PROJECT_DIR$/Lab_06/program_6_07/program_6_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_07/program_7_01/program_7_01.iml" filepath="$PROJECT_DIR$/Lab_07/program_7_01/program_7_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_07/program_7_02/program_7_02.iml" filepath="$PROJECT_DIR$/Lab_07/program_7_02/program_7_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_07/program_7_03/program_7_03.iml" filepath="$PROJECT_DIR$/Lab_07/program_7_03/program_7_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_07/program_7_04/program_7_04.iml" filepath="$PROJECT_DIR$/Lab_07/program_7_04/program_7_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_07/program_7_05/program_7_05.iml" filepath="$PROJECT_DIR$/Lab_07/program_7_05/program_7_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_07/program_7_06/program_7_06.iml" filepath="$PROJECT_DIR$/Lab_07/program_7_06/program_7_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_08/program_8_01/program_8_01.iml" filepath="$PROJECT_DIR$/Lab_08/program_8_01/program_8_01.iml" />
     </modules>
   </component>
 </project>
